@@ -1,0 +1,517 @@
+{
+  "matrix": {
+    "tp": 27,
+    "tn": 21,
+    "fp": 1,
+    "fn": 1,
+    "precision": 0.964,
+    "recall": 0.964,
+    "f1_score": 0.964,
+    "accuracy": 0.96,
+    "total_samples": 50,
+    "correct": 48,
+    "incorrect": 2
+  },
+  "results": [
+    {
+      "id": 1,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "malware",
+      "ml_classification": "malicious",
+      "ml_confidence": 78,
+      "score": 67,
+      "correct": true
+    },
+    {
+      "id": 2,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "malware",
+      "ml_classification": "malicious",
+      "ml_confidence": 78,
+      "score": 80,
+      "correct": true
+    },
+    {
+      "id": 3,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "malware",
+      "ml_classification": "malicious",
+      "ml_confidence": 77,
+      "score": 76,
+      "correct": true
+    },
+    {
+      "id": 4,
+      "true_label": "grayware",
+      "true_binary": "benign",
+      "predicted": "benign",
+      "ml_classification": "benign",
+      "ml_confidence": 47,
+      "score": 54,
+      "correct": true
+    },
+    {
+      "id": 5,
+      "true_label": "benign",
+      "true_binary": "benign",
+      "predicted": "benign",
+      "ml_classification": "benign",
+      "ml_confidence": 13,
+      "score": 19,
+      "correct": true
+    },
+    {
+      "id": 6,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "malware",
+      "ml_classification": "malicious",
+      "ml_confidence": 73,
+      "score": 83,
+      "correct": true
+    },
+    {
+      "id": 7,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "benign",
+      "ml_classification": "benign",
+      "ml_confidence": 49,
+      "score": 72,
+      "correct": false
+    },
+    {
+      "id": 8,
+      "true_label": "benign",
+      "true_binary": "benign",
+      "predicted": "benign",
+      "ml_classification": "benign",
+      "ml_confidence": 12,
+      "score": 16,
+      "correct": true
+    },
+    {
+      "id": 9,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "malware",
+      "ml_classification": "malicious",
+      "ml_confidence": 74,
+      "score": 83,
+      "correct": true
+    },
+    {
+      "id": 10,
+      "true_label": "benign",
+      "true_binary": "benign",
+      "predicted": "benign",
+      "ml_classification": "benign",
+      "ml_confidence": 31,
+      "score": 28,
+      "correct": true
+    },
+    {
+      "id": 11,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "malware",
+      "ml_classification": "suspicious",
+      "ml_confidence": 50,
+      "score": 72,
+      "correct": true
+    },
+    {
+      "id": 12,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "malware",
+      "ml_classification": "suspicious",
+      "ml_confidence": 63,
+      "score": 55,
+      "correct": true
+    },
+    {
+      "id": 13,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "malware",
+      "ml_classification": "malicious",
+      "ml_confidence": 70,
+      "score": 91,
+      "correct": true
+    },
+    {
+      "id": 14,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "malware",
+      "ml_classification": "suspicious",
+      "ml_confidence": 59,
+      "score": 83,
+      "correct": true
+    },
+    {
+      "id": 15,
+      "true_label": "benign",
+      "true_binary": "benign",
+      "predicted": "benign",
+      "ml_classification": "benign",
+      "ml_confidence": 14,
+      "score": 7,
+      "correct": true
+    },
+    {
+      "id": 16,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "malware",
+      "ml_classification": "suspicious",
+      "ml_confidence": 66,
+      "score": 60,
+      "correct": true
+    },
+    {
+      "id": 17,
+      "true_label": "benign",
+      "true_binary": "benign",
+      "predicted": "benign",
+      "ml_classification": "benign",
+      "ml_confidence": 26,
+      "score": 21,
+      "correct": true
+    },
+    {
+      "id": 18,
+      "true_label": "benign",
+      "true_binary": "benign",
+      "predicted": "benign",
+      "ml_classification": "benign",
+      "ml_confidence": 27,
+      "score": 23,
+      "correct": true
+    },
+    {
+      "id": 19,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "malware",
+      "ml_classification": "suspicious",
+      "ml_confidence": 62,
+      "score": 85,
+      "correct": true
+    },
+    {
+      "id": 20,
+      "true_label": "grayware",
+      "true_binary": "benign",
+      "predicted": "benign",
+      "ml_classification": "benign",
+      "ml_confidence": 31,
+      "score": 43,
+      "correct": true
+    },
+    {
+      "id": 21,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "malware",
+      "ml_classification": "malicious",
+      "ml_confidence": 75,
+      "score": 95,
+      "correct": true
+    },
+    {
+      "id": 22,
+      "true_label": "benign",
+      "true_binary": "benign",
+      "predicted": "benign",
+      "ml_classification": "benign",
+      "ml_confidence": 13,
+      "score": 11,
+      "correct": true
+    },
+    {
+      "id": 23,
+      "true_label": "benign",
+      "true_binary": "benign",
+      "predicted": "benign",
+      "ml_classification": "benign",
+      "ml_confidence": 16,
+      "score": 13,
+      "correct": true
+    },
+    {
+      "id": 24,
+      "true_label": "benign",
+      "true_binary": "benign",
+      "predicted": "benign",
+      "ml_classification": "benign",
+      "ml_confidence": 11,
+      "score": 11,
+      "correct": true
+    },
+    {
+      "id": 25,
+      "true_label": "grayware",
+      "true_binary": "benign",
+      "predicted": "benign",
+      "ml_classification": "benign",
+      "ml_confidence": 45,
+      "score": 45,
+      "correct": true
+    },
+    {
+      "id": 26,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "malware",
+      "ml_classification": "suspicious",
+      "ml_confidence": 69,
+      "score": 82,
+      "correct": true
+    },
+    {
+      "id": 27,
+      "true_label": "benign",
+      "true_binary": "benign",
+      "predicted": "benign",
+      "ml_classification": "benign",
+      "ml_confidence": 22,
+      "score": 12,
+      "correct": true
+    },
+    {
+      "id": 28,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "malware",
+      "ml_classification": "malicious",
+      "ml_confidence": 81,
+      "score": 78,
+      "correct": true
+    },
+    {
+      "id": 29,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "malware",
+      "ml_classification": "suspicious",
+      "ml_confidence": 67,
+      "score": 94,
+      "correct": true
+    },
+    {
+      "id": 30,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "malware",
+      "ml_classification": "malicious",
+      "ml_confidence": 74,
+      "score": 77,
+      "correct": true
+    },
+    {
+      "id": 31,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "malware",
+      "ml_classification": "malicious",
+      "ml_confidence": 73,
+      "score": 83,
+      "correct": true
+    },
+    {
+      "id": 32,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "malware",
+      "ml_classification": "malicious",
+      "ml_confidence": 73,
+      "score": 78,
+      "correct": true
+    },
+    {
+      "id": 33,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "malware",
+      "ml_classification": "malicious",
+      "ml_confidence": 76,
+      "score": 82,
+      "correct": true
+    },
+    {
+      "id": 34,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "malware",
+      "ml_classification": "suspicious",
+      "ml_confidence": 51,
+      "score": 70,
+      "correct": true
+    },
+    {
+      "id": 35,
+      "true_label": "grayware",
+      "true_binary": "benign",
+      "predicted": "benign",
+      "ml_classification": "benign",
+      "ml_confidence": 42,
+      "score": 43,
+      "correct": true
+    },
+    {
+      "id": 36,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "malware",
+      "ml_classification": "malicious",
+      "ml_confidence": 82,
+      "score": 73,
+      "correct": true
+    },
+    {
+      "id": 37,
+      "true_label": "grayware",
+      "true_binary": "benign",
+      "predicted": "malware",
+      "ml_classification": "suspicious",
+      "ml_confidence": 54,
+      "score": 51,
+      "correct": false
+    },
+    {
+      "id": 38,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "malware",
+      "ml_classification": "malicious",
+      "ml_confidence": 80,
+      "score": 80,
+      "correct": true
+    },
+    {
+      "id": 39,
+      "true_label": "benign",
+      "true_binary": "benign",
+      "predicted": "benign",
+      "ml_classification": "benign",
+      "ml_confidence": 13,
+      "score": 17,
+      "correct": true
+    },
+    {
+      "id": 40,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "malware",
+      "ml_classification": "malicious",
+      "ml_confidence": 76,
+      "score": 67,
+      "correct": true
+    },
+    {
+      "id": 41,
+      "true_label": "benign",
+      "true_binary": "benign",
+      "predicted": "benign",
+      "ml_classification": "benign",
+      "ml_confidence": 11,
+      "score": 10,
+      "correct": true
+    },
+    {
+      "id": 42,
+      "true_label": "benign",
+      "true_binary": "benign",
+      "predicted": "benign",
+      "ml_classification": "benign",
+      "ml_confidence": 16,
+      "score": 22,
+      "correct": true
+    },
+    {
+      "id": 43,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "malware",
+      "ml_classification": "malicious",
+      "ml_confidence": 83,
+      "score": 87,
+      "correct": true
+    },
+    {
+      "id": 44,
+      "true_label": "benign",
+      "true_binary": "benign",
+      "predicted": "benign",
+      "ml_classification": "benign",
+      "ml_confidence": 13,
+      "score": 7,
+      "correct": true
+    },
+    {
+      "id": 45,
+      "true_label": "benign",
+      "true_binary": "benign",
+      "predicted": "benign",
+      "ml_classification": "benign",
+      "ml_confidence": 24,
+      "score": 16,
+      "correct": true
+    },
+    {
+      "id": 46,
+      "true_label": "grayware",
+      "true_binary": "benign",
+      "predicted": "benign",
+      "ml_classification": "benign",
+      "ml_confidence": 42,
+      "score": 56,
+      "correct": true
+    },
+    {
+      "id": 47,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "malware",
+      "ml_classification": "suspicious",
+      "ml_confidence": 53,
+      "score": 72,
+      "correct": true
+    },
+    {
+      "id": 48,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "malware",
+      "ml_classification": "malicious",
+      "ml_confidence": 76,
+      "score": 83,
+      "correct": true
+    },
+    {
+      "id": 49,
+      "true_label": "benign",
+      "true_binary": "benign",
+      "predicted": "benign",
+      "ml_classification": "benign",
+      "ml_confidence": 21,
+      "score": 25,
+      "correct": true
+    },
+    {
+      "id": 50,
+      "true_label": "malware",
+      "true_binary": "malware",
+      "predicted": "malware",
+      "ml_classification": "malicious",
+      "ml_confidence": 77,
+      "score": 68,
+      "correct": true
+    }
+  ]
+}
