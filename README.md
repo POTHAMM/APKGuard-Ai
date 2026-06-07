@@ -13,10 +13,8 @@
 
 ---
 
-<p align="center">
-  <!-- IMPORTANT: Ensure your master infographic is uploaded to an 'assets' folder in your repo -->
-  <img src="assets/master_infographic.png" alt="APKGuard AI Master Infographic" width="100%">
-</p>
+<img width="1442" height="2200" alt="image" src="https://github.com/user-attachments/assets/04377b3d-5204-4274-a970-eefb8a7c7cd9" />
+
 
 ---
 
