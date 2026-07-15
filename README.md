@@ -66,8 +66,8 @@ To run APKGuard AI locally, you will need to start both the Python backend and t
 ### 1. Backend Setup (FastAPI)
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/apkguard-ai.git](https://github.com/your-username/apkguard-ai.git)
-cd apkguard-ai/backend
+git clone [https://github.com/POTHAMM/APKGuard-Ai.git](https://github.com/POTHAMM/APKGuard-Ai.git)
+cd APKGuard-Ai/backend
 
 # Create a virtual environment
 python -m venv venv
@@ -81,3 +81,21 @@ cp .env.example .env
 
 # Start the FastAPI server
 uvicorn main:app --reload --port 8000
+
+### 2. Frontend Setup (React + Vite)
+Open a **new** terminal window:
+```bash
+cd ../frontend
+npm install
+npm run dev
+
+👥 The Team (null Pointers)
+Prathamkumar Kalidas Solanki - Computer Science & Engineering, Karnavati University
+
+Vatsa Jamar - Vellore Institute of Technology
+
+Anusha Lodha - Parul Institute of Engineering and Technology
+
+Disclaimer: This tool is intended for authorized malware analysis, incident response triage, and educational purposes only.
+
+**One quick tip:** Make sure you copy from the black code block I provided in the previous message rather than copying the normal text. That ensures your shields/badges, the tech stack table, and your code formatting look perfectly aligned when GitHub renders it!
