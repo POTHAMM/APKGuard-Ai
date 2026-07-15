@@ -97,5 +97,3 @@ Vatsa Jamar - Vellore Institute of Technology
 Anusha Lodha - Parul Institute of Engineering and Technology
 
 Disclaimer: This tool is intended for authorized malware analysis, incident response triage, and educational purposes only.
-
-**One quick tip:** Make sure you copy from the black code block I provided in the previous message rather than copying the normal text. That ensures your shields/badges, the tech stack table, and your code formatting look perfectly aligned when GitHub renders it!
